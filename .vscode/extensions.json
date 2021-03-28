@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "msjsdiag.debugger-for-chrome",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "CoenraadS.bracket-pair-colorizer",
+    "lacroixdavid1.vscode-format-context-menu",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "mrmlnc.vscode-attrs-sorter",
+    "wayou.vscode-todo-highlight",
+    "dariofuzinato.vue-peek",
+    "equinusocio.vsc-community-material-theme",
+    "vscode-icons-team.vscode-icons",
+    "apollographql.vscode-apollo"
+  ],
+  "unwantedRecommendations": [
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
